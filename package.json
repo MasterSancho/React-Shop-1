@@ -1,0 +1,22 @@
+{
+ "name": "react-shop-1",
+ "version": "1.0.0",
+ "description": "MERN shopping cart app",
+ "main": "server.js",
+ "scripts": {
+  "start": "node backend/server"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/MasterSancho/React-Shop-1.git"
+ },
+ "author": "Alex Maltsev",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/MasterSancho/React-Shop-1/issues"
+ },
+ "homepage": "https://github.com/MasterSancho/React-Shop-1#readme",
+ "dependencies": {
+  "express": "^4.17.1"
+ }
+}
